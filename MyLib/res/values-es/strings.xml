@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources  xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="daidalos_hello">Hello World!</string>
+    <string name="daidalos_app_name">AFileDialog</string>
+
+    <color name="daidalos_gray">#888</color>
+
+    <string name="daidalos_select">Seleccionar</string>
+    <string name="daidalos_cancel">Cancelar</string>
+    <string name="daidalos_ok">Aceptar</string>
+    <string name="daidalos_new_file">Nuevo</string>
+    <string name="daidalos_create_file">Crear archivo</string>
+    <string name="daidalos_create_folder">Crear carpeta</string>
+    <string name="daidalos_accept">Aceptar</string>
+    <string name="daidalos_enter_file_name">Ingrese el nombre del archivo que desea crear</string>
+    <string name="daidalos_enter_folder_name">Ingrese el nombre de la carpeta que desea crear</string>
+    <string name="daidalos_yes">Si</string>
+    <string name="daidalos_no">No</string>
+    <string name="daidalos_confirm_select_file">¿Está seguro que desea seleccionar el archivo \'$file_name\'?</string>
+    <string name="daidalos_confirm_create_file">El archivo \'$file_name\' no existe, ¿está seguro de que desea crearlo?</string>
+    <string name="daidalos_confirm_select_folder">¿Está seguro que desea seleccionar la carpeta \'$file_name\'?</string>
+    <string name="daidalos_confirm_create_folder">La carpeta \'$file_name\' no existe, ¿está seguro de que desea crearla?</string>
+
+    <color name="daidalos_backgroud">#000</color>
+    <color name="daidalos_active_file">#fff</color>
+    <color name="daidalos_inactive_file">#888</color>
+
+    <!-- daTE TIME PICKER -->
+        <string name="done_label" msgid="7007948707597430919">"Listo"</string>
+    <string name="hour_picker_description" msgid="7586639618712934060">"Control deslizante circular de horas"</string>
+    <string name="minute_picker_description" msgid="6024811202872705251">"Control deslizante circular de minutos"</string>
+    <string name="select_hours" msgid="7651068754188418859">"Seleccionar horas"</string>
+    <string name="select_minutes" msgid="8327182090226828481">"Seleccionar minutos"</string>
+    <string name="day_picker_description" msgid="3968620852217927702">"Cuadrícula mensual de días"</string>
+    <string name="year_picker_description" msgid="6963340404644587098">"Lista de años"</string>
+    <string name="select_day" msgid="3973338219107019769">"Seleccionar mes y día"</string>
+    <string name="select_year" msgid="2603330600102539372">"Seleccionar año"</string>
+    <string name="item_is_selected" msgid="2674929164900463786">"<xliff:g id="ITEM">%1$s</xliff:g> seleccionado"</string>
+    <string name="deleted_key" msgid="6908431551612331381">"<xliff:g id="KEY">%1$s</xliff:g> eliminado"</string>
+
+</resources>

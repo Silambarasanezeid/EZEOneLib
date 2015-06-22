@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="fab_expand_menu_button" type="id"/>
+    <item name="fab_label" type="id"/>
+    <item name="mdLayout" type="id"/>
+    <item name="mdLayoutProfile" type="id"/>
+    <item name="mdLayoutProfileContent" type="id"/>
+    <item name="mdAvatarProfile" type="id"/>
+    <item name="mdBackgroundProfile" type="id"/>
+    <item name="mdNameProfile" type="id"/>
+    <item name="mdDescriptionProfile" type="id"/>
+    <item name="mdLinearListViewPrimary" type="id"/>
+    <item name="mdDivider" type="id"/>
+    <item name="mdLinearListViewSecondary" type="id"/>
+    <item name="mdRoot" type="id"/>
+    <item name="mdImage" type="id"/>
+    <item name="mdTextPrimary" type="id"/>
+    <item name="mdTextSecondary" type="id"/>
+
+    <!-- Date time picker -->
+    <item name="done" type="id">false</item>
+    <item name="date_picker_header" type="id">false</item>
+    <item name="day_picker_selected_date_layout" type="id">false</item>
+    <item name="date_picker_month_and_day" type="id">false</item>
+    <item name="date_picker_month" type="id">false</item>
+    <item name="date_picker_day" type="id">false</item>
+    <item name="date_picker_year" type="id">false</item>
+    <item name="animator" type="id">false</item>
+    <item name="month_text_view" type="id">false</item>
+
+    <!-- Material Tab -->
+    <item name="materialviewpager_pagerTitleStrip" type="id"/>
+    <item name="materialviewpager_imageHeader" type="id"/>
+
+</resources>

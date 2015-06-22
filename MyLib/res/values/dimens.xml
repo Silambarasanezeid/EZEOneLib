@@ -1,0 +1,120 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_size">56dp</dimen>
+    <dimen name="start_z">2dp</dimen>
+    <dimen name="end_z">5dp</dimen>
+    <dimen name="button_elevation">2dp</dimen>
+    <dimen name="button_press_elevation">4dp</dimen>
+    <dimen name="fab_size_normal">56dp</dimen>
+    <dimen name="fab_size_mini">40dp</dimen>
+    <dimen name="fab_icon_size">24dp</dimen>
+    <dimen name="fab_plus_icon_size">14dp</dimen>
+    <dimen name="fab_plus_icon_stroke">2dp</dimen>
+    <dimen name="fab_shadow_offset">3dp</dimen>
+    <dimen name="fab_shadow_radius">9dp</dimen>
+    <dimen name="fab_stroke_width">0.5dp</dimen>
+    <dimen name="fab_actions_spacing">16dp</dimen>
+    <dimen name="fab_labels_margin">8dp</dimen>
+    <dimen name="baseline_start">16dp</dimen>
+    <dimen name="baseline_content">72dp</dimen>
+    <dimen name="baseline_end">16dp</dimen>
+    <dimen name="drawer_max_width">400dp</dimen>
+    <dimen name="drawer_margin_end">48dp</dimen>
+    <dimen name="drawer_list_margin_vertical">8dp</dimen>
+    <dimen name="icon_size">24dp</dimen>
+    <dimen name="avatar_size">40dp</dimen>
+    <dimen name="big_avatar_size">64dp</dimen>
+    <dimen name="divider_height">1dp</dimen>
+    <dimen name="divider_margin">8dp</dimen>
+    <dimen name="list_item_height_text">48dp</dimen>
+    <dimen name="list_item_height_icon_text">48dp</dimen>
+    <dimen name="list_item_height_image_text">56dp</dimen>
+    <dimen name="list_item_height_text_two_line">72dp</dimen>
+    <dimen name="list_item_height_icon_text_two_line">72dp</dimen>
+    <dimen name="list_item_height_image_text_two_line">72dp</dimen>
+    <dimen name="list_item_height_text_three_line">88dp</dimen>
+    <dimen name="list_item_height_icon_text_three_line">88dp</dimen>
+    <dimen name="list_item_height_image_text_three_line">88dp</dimen>
+    <dimen name="list_item_margin">16dp</dimen>
+    <dimen name="list_item_text_secondary_margin">0dp</dimen>
+
+    <color name="md_title_light">#000000</color>
+    <color name="md_title_dark">#FFFFFF</color>
+
+    <!-- <color name="content_light">#5E5E5E</color> -->
+    <!-- <color name="content_dark">#EDEDED</color> -->
+    <!-- <color name="item_light">#535353</color> -->
+    <!-- <color name="item_dark">#EDEDED</color> -->
+    <!-- <color name="button_light">#3C3C3D</color> -->
+    <!-- <color name="button_dark">#FFFFFF</color> -->
+
+    <color name="md_divider_black">#10000000</color>
+    <color name="md_divider_white">#10FFFFFF</color>
+    <color name="md_material_blue_500">#5677fc</color>
+
+    <!-- progress bar -->
+    <dimen name="cpb_stroke_width">4dp</dimen>
+
+    <!-- Date time picker -->
+    <dimen name="done_label_size">14sp</dimen>
+    <dimen name="date_picker_component_width">270dip</dimen>
+    <dimen name="date_picker_header_height">30dip</dimen>
+    <dimen name="selected_calendar_layout_height">155dip</dimen>
+    <dimen name="date_picker_view_animator_height">270dip</dimen>
+    <dimen name="month_list_item_header_height">50dip</dimen>
+    <dimen name="month_day_label_text_size">10sp</dimen>
+    <dimen name="day_number_select_circle_radius">16dip</dimen>
+    <dimen name="month_select_circle_radius">45dip</dimen>
+    <dimen name="selected_date_year_size">30dip</dimen>
+    <dimen name="selected_date_day_size">75dip</dimen>
+    <dimen name="selected_date_month_size">30dip</dimen>
+    <dimen name="date_picker_header_text_size">14dip</dimen>
+    <dimen name="month_label_size">16sp</dimen>
+    <dimen name="day_number_size">16sp</dimen>
+    <dimen name="year_label_height">64dip</dimen>
+    <dimen name="year_label_text_size">22dip</dimen>
+    <dimen name="time_label_size">60sp</dimen>
+    <dimen name="extra_time_label_margin">-30dp</dimen>
+    <dimen name="ampm_label_size">16sp</dimen>
+    <dimen name="ampm_left_padding">6dip</dimen>
+    <dimen name="separator_padding">4dip</dimen>
+    <dimen name="header_height">96dip</dimen>
+    <dimen name="picker_dimen">270dip</dimen>
+    <dimen name="minimum_margin_sides">48dip</dimen>
+    <dimen name="minimum_margin_top_bottom">24dip</dimen>
+
+    <item name="circle_radius_multiplier" format="float" type="string">0.82</item>
+    <item name="circle_radius_multiplier_24HourMode" format="float" type="string">0.85</item>
+    <item name="selection_radius_multiplier" format="float" type="string">0.16</item>
+    <item name="ampm_circle_radius_multiplier" format="float" type="string">0.19</item>
+    <item name="numbers_radius_multiplier_normal" format="float" type="string">0.81</item>
+    <item name="numbers_radius_multiplier_inner" format="float" type="string">0.60</item>
+    <item name="numbers_radius_multiplier_outer" format="float" type="string">0.83</item>
+    <item name="text_size_multiplier_normal" format="float" type="string">0.17</item>
+    <item name="text_size_multiplier_inner" format="float" type="string">0.14</item>
+    <item name="text_size_multiplier_outer" format="float" type="string">0.11</item>
+
+    <!-- tab -->
+    <dimen name="tabhostHeight">48dp</dimen>
+    <dimen name="tabSelectorHeight">2dp</dimen>
+    <dimen name="materialTextTab">14sp</dimen>
+
+    <!-- EditText -->
+    <dimen name="default_padding_top">8dp</dimen>
+    <dimen name="default_padding_bottom">8dp</dimen>
+    <dimen name="inner_padding_left">0dp</dimen>
+    <dimen name="inner_padding_right">0dp</dimen>
+    <dimen name="floating_label_text_size">12sp</dimen>
+    <dimen name="bottom_text_size">12sp</dimen>
+    <dimen name="inner_components_spacing">8dp</dimen>
+    <dimen name="bottom_ellipsis_height">4dp</dimen>
+
+    <!-- Material Tab -->
+    <dimen name="cardMarginHorizontal">10dp</dimen>
+    <dimen name="cardMarginVertical">8dp</dimen>
+    <dimen name="materialviewpager_logoHeight">35dp</dimen>
+
+</resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">Android_FAB</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <color name="daidalos_gray">#888</color>
+
+    <string name="daidalos_select">Select</string>
+    <string name="daidalos_cancel">Cancel</string>
+    <string name="daidalos_ok">OK</string>
+    <string name="daidalos_new_file">New</string>
+    <string name="daidalos_create_file">Create file</string>
+    <string name="daidalos_create_folder">Create folder</string>
+    <string name="daidalos_accept">Accept</string>
+    <string name="daidalos_enter_file_name">Enter the name of the file that you want to create</string>
+    <string name="daidalos_enter_folder_name">Enter the name of the folder that you want to create</string>
+    <string name="daidalos_yes">Yes</string>
+    <string name="daidalos_no">No</string>
+    <string name="daidalos_confirm_select_file">Are you sure that you want to select the file \'$file_name\'?</string>
+    <string name="daidalos_confirm_create_file">The file \'$file_name\' do not exists, are you sure that you want to create it?</string>
+    <string name="daidalos_confirm_select_folder">Are you sure that you want to select the folder \'$file_name\'?</string>
+    <string name="daidalos_confirm_create_folder">The folder \'$file_name\' do not exists, are you sure that you want to create it?</string>
+
+    <color name="daidalos_backgroud">#000</color>
+    <color name="daidalos_active_file">#fff</color>
+    <color name="daidalos_inactive_file">#888</color>
+
+    <!-- Date time picker -->
+    <string name="done_label">Done</string>
+    <string name="day_picker_description">Month grid of days</string>
+    <string name="year_picker_description">Year list</string>
+    <string name="select_day">Select month and day</string>
+    <string name="select_year">Select year</string>
+    <string name="item_is_selected">%1$s selected</string>
+    <string name="sans_serif" translatable="false">sans-serif</string>
+    <string name="day_of_week_label_typeface" translatable="false">sans-serif</string>
+    <string name="time_placeholder" translatable="false">--</string>
+    <string name="time_separator" translatable="false">:</string>
+
+    <!-- Accessibility announcement when a number that had been typed in is deleted [CHAR_LIMIT=NONE] -->
+    <string name="deleted_key"><xliff:g id="key" example="4">%1$s</xliff:g> deleted</string>
+    <!--
+         Content description for the hour selector in the time picker, which displays
+         selectable hours of the day along the inside edge of a circle, as in an analog clock.
+         [CHAR LIMIT=50]
+    -->
+    <string name="hour_picker_description">Hours circular slider</string>
+    <!--
+         Content description for the minute selector in the time picker, which displays
+         selectable five-minute intervals along the inside edge of a circle, as in an analog clock.
+         [CHAR LIMIT=50]
+    -->
+    <string name="minute_picker_description">Minutes circular slider</string>
+    <string name="radial_numbers_typeface" translatable="false">sans-serif</string>
+    <string name="select_hours">Select hours</string>
+    <string name="select_minutes">Select minutes</string>
+
+</resources>
